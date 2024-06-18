@@ -15,3 +15,8 @@
          ip VARCHAR(45) NOT NULL,
          browse VARCHAR(255) NOT NULL
          );
+  4. Создание файла .env хранения данных таблтцы:
+     DB_HOST=<имя хоста>
+     DB_NAME=<название БД>
+     DB_USER=<имя пользователя>
+     DB_PASS=<пароль>
